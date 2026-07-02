@@ -21,7 +21,6 @@
 
 
 
-
 # Pytest short Workshop.
 
 ## Activity: Pandas Joins, Filtering + Pytest (15 min)
